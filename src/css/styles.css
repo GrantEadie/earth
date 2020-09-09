@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron {
+  text-align:center;
+  background-color: black;
+}
+
+.showEarth1 img {
+  display: block;
+  margin: auto;
+  width: 70%;
+}
